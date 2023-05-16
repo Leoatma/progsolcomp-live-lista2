@@ -23,6 +23,7 @@
         - 50 a 64 Regular
         - 65 a 84 Bom
         - 85 100 Ótimo
+        
     7. Faça um programa calcula o total de uma hospedagem em um hotel. Ele cobra R$ 60.00 a diária e mais uma taxa de serviço:
         - R$ 5.50 por diária, se o número de diárias for maior que 15;
         - R$ 6.00 por diária, se o número de diárias for igual a 15;
