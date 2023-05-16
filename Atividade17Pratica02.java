@@ -9,11 +9,14 @@
 public class Atividade17Pratica02 {
     
     public static void main(String[] args) {
-        
-        for (int idx = -1000; idx < 0; idx ++) {
-            if (idx % 7 == 0) {
-                System.out.println(idx);
+
+        int contador = -1000;
+        do {
+            if (contador % 7 == 0) {
+                System.out.println(contador);
             }
+            contador++;
+        } while (contador < 0);
         }
     }
-}
+
